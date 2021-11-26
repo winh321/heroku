@@ -14,6 +14,8 @@
 
 အဆင်ပြေလားဟ
 
+<a href="second.html"> Next </a>
+
 </body>
 
 </html> 
