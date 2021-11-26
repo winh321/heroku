@@ -15,6 +15,7 @@
 အဆင်ပြေလားဟ
 
 <a href="second.html"> next </a>
+<?php echo "do you love me"; ?>
 </body>
 
 </html> 
